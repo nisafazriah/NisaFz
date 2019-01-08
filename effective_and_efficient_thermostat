@@ -1,0 +1,17 @@
+Test Cases
+
+Test case 1 
+mesured temperature           heating switch          heating
+     23                             on                  off
+     
+Test case 2 
+mesured temperature           heating switch          heating
+     22                             on                  on
+     
+Test case 3 
+mesured temperature           heating switch          heating
+      4                            off                  on
+     
+Test case 4 
+mesured temperature           heating switch          heating
+      5                             off                 off
